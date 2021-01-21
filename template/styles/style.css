@@ -39,7 +39,10 @@ footer {
     background-color: #203040;
     color: #fff;
 }
-
+/* Common */
+a {
+    text-decoration: none;
+}
 .row{
     display: flex;
     flex-wrap: wrap;
