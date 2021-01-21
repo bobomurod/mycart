@@ -33,3 +33,9 @@ main {
     grid-area: main;
     padding:  1rem;
 }
+
+footer {
+    grid-area: footer;
+    background-color: #203040;
+    color: #fff;
+}
