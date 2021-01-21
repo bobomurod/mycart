@@ -43,6 +43,11 @@ footer {
 a {
     text-decoration: none;
 }
+/* Header */
+header a {
+    color: #fff;
+    padding: 1rem;
+}
 .row{
     display: flex;
     flex-wrap: wrap;
